@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{AC1412A2-C259-4332-92D5-E0740A42782C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sol-System-Dot-Net/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="Sol-System-Dot-Net/Views/Home/Index.cshtml" Line="7" Column="61" />
+      <File FileName="Sol-System-Dot-Net/Views/Home/Privacy.cshtml" Line="7" Column="1" />
+      <File FileName="Sol-System-Dot-Net/Views/Shared/_Layout.cshtml" Line="40" Column="34" />
+      <File FileName="Sol-System-Dot-Net/Controllers/HomeController.cs" Line="29" Column="69" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sol-System-Dot-Net" expanded="True">
+            <Node name="Sol-System-Dot-Net" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Sol-System-Dot-Net PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
